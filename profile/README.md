@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/readme-banner-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="../assets/readme-banner-light.png" />
-  <img alt="SlideTab" src="../assets/readme-banner-dark.png" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slidetab/.github/main/assets/readme-banner-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slidetab/.github/main/assets/readme-banner-light.png" />
+  <img alt="SlideTab" src="https://raw.githubusercontent.com/slidetab/.github/main/assets/readme-banner-dark.png" width="100%" />
 </picture>
 
 Trackpad window switching for macOS. Rest 4 or 3 fingers on a MacBook trackpad or Magic Trackpad, slide to pick a window or coding agent session, and lift.
